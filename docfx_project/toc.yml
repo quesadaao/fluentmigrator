@@ -1,0 +1,5 @@
+# - name: Articles
+#   href: articles/
+- name: Documentation
+  href: document/
+  homepage: document/Home.md

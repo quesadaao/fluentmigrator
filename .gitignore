@@ -33,3 +33,11 @@ src/FluentMigrator.T4.Tests/IntialMigrationCode.cs
 #StyleCop
 *.StyleCop
 /TestResults
+
+# DocFx ignores
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+/**/_site

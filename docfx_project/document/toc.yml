@@ -1,0 +1,102 @@
+- name: Home
+  href: Home.md
+- name: Getting Started
+  items:
+  - name: Supported Databases
+    href: Supported-Databases.md
+  - name: Getting FluentMigrator
+    href: Getting-FluentMigrator.md
+  - name: How to create a Migration
+    href: Migration.md
+  - name: Fluent Interface
+    href: Fluent-Interface.md
+  - name: Migration Runners
+    href: Migration-Runners.md
+  - name: Getting started with example project
+    href: Getting-started-with-Example-Project.md
+- name: More Features
+  items:
+  - name: Use inbuilt database functions when setting the default value
+    href: use-inbuilt-database-functions-when-setting-the-default-value.md
+  - name: Sql server Specific Extensions
+    href: Sql-Server-Specific-Extensions.md
+  - name: Raw Sql helper for inserting data
+    href: Raw-Sql-helper-for-inserting-data.md
+  - name: Auto Reversing Migrations
+    href: Auto-Reversing-Migrations.md
+  - name: Resharper file Template
+    href: Resharper-file-Template.md
+  - name: Transaction modes for the migration Runner
+    href: Transaction-modes-for-the-migration-Runner.md
+- name: Advanced Features and Techniques of FluentMigrator
+  items:
+  # - name: "ApplicationContext: Passing parameters to Migrations"
+  #   href: ApplicationContext.md
+  - name: Dealing with Multiple Database Types
+    href: Dealing-with-Multiple-Database-Types.md
+  - name: Filter migrations run based on Tags
+    href: Filter-migrations-run-based-on-Tags.md
+  - name: Enforce migration version numbering rules
+    href: Enforce-migration-version-numbering-rules.md
+  - name: Create custom metadata for the VersionInfo table
+    href: Create-custom-metadata-for-the-VersionInfo-table.md
+- name: Current Release
+  items:
+  - name: Release Notes
+    href: Release-Notes.md
+
+- name: Community
+  items:
+  - name: Contributors
+    href: ContributorList.md
+  - name: Code formatting
+    href: Code-formatting.md
+  - name: Line endings in git
+    href: Line-endings-in-git.md    
+  - name: Community Articles
+    href: Community-articles.md
+  # - name: Guide to FluentMigrator T4
+  #   href: Guide-to-FluentMigrator.T4.md
+
+
+
+# # Navigation #
+
+# [Wiki Home](https://github.com/schambers/fluentmigrator/wiki)
+
+# ***
+# ## Getting Started ##
+# * [[Getting FluentMigrator]]
+# * How to create a [[Migration]]
+# * [[Fluent Interface]]
+# * [[Migration Runners]]
+
+# ***
+# ## More Features ##
+
+# * [[Use inbuilt database functions when setting the default value]]
+# * [[Sql Server Specific Extensions]]
+# * [[Raw Sql Helper for inserting data]]
+# * [[Auto Reversing Migrations]]
+# * [[Resharper File Template]]
+# * [[Transaction Modes for the Migration Runner]]
+
+# ***
+# ## Advanced Features and Techniques of FluentMigrator ##
+
+# * [[ApplicationContext: Passing parameters to Migrations]]
+# * [[Dealing with Multiple Database Types]]
+# * [[Filter migrations run based on Tags]]
+# * [[Enforce migration version numbering rules]]
+# * [[Create custom metadata for the VersionInfo table]]
+
+# ***
+# ## Current Release ##
+
+# * [Release Notes](https://github.com/schambers/fluentmigrator/wiki/Release-Notes)
+# ***
+# ## Contributors ##
+
+# * [[Code Formatting]]
+# * [[Line endings in git]]
+# * [[ContributorList]]
